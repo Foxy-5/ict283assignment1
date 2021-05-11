@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1613753986 source:c:\users\vincent\desktop\assignment 1 - wei cheng\assignement 1\date.cpp
+	"date.h"
+
+1615484180 c:\users\vincent\desktop\assignment 1 - wei cheng\assignement 1\date.h
+	<string>
+	<iostream>
+
+1614167401 source:c:\users\vincent\desktop\assignment 1 - wei cheng\assignement 1\time.cpp
+	"Time.h"
+	<string>
+
+1615484164 c:\users\vincent\desktop\assignment 1 - wei cheng\assignement 1\time.h
+	<iostream>
+
+1615362058 source:c:\users\vincent\desktop\assignment 1 - wei cheng\assignement 1\main.cpp
+	"date.h"
+	"Time.h"
+	"myvector.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+
+1614665429 c:\users\vincent\desktop\assignment 1 - wei cheng\assignement 1\myvector.h
+	<iostream>
+
+1613753986 source:c:\users\vincent\desktop\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\date.cpp
+	"date.h"
+
+1615484180 c:\users\vincent\desktop\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\date.h
+	<string>
+	<iostream>
+
+1614167401 source:c:\users\vincent\desktop\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\time.cpp
+	"Time.h"
+	<string>
+
+1615484164 c:\users\vincent\desktop\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\time.h
+	<iostream>
+
+1616439816 source:c:\users\vincent\desktop\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\main.cpp
+	"date.h"
+	"Time.h"
+	"myvector.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+
+1614665429 c:\users\vincent\desktop\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\myvector.h
+	<iostream>
+
+1613753986 source:c:\users\vincent\desktop\ict283\assignment1\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\date.cpp
+	"date.h"
+
+1615484180 c:\users\vincent\desktop\ict283\assignment1\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\date.h
+	<string>
+	<iostream>
+
+1614167401 source:c:\users\vincent\desktop\ict283\assignment1\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\time.cpp
+	"Time.h"
+	<string>
+
+1615484164 c:\users\vincent\desktop\ict283\assignment1\ict283_assignment1_seow_wei_cheng_33753618\assignement 1\time.h
+	<iostream>
+
